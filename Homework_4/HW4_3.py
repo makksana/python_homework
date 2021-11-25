@@ -23,19 +23,4 @@ while number_of_strings > 0:
         word += new_word[index] 
         new_word = new_word[:index]+new_word[index+1:] 
     print(word)
-      
-
-
-    # one_letter = random.choice(your_word)
-    # # len(your_word)
-    # print(one_letter)
-
-    # mylist = [[0], [1], "cherry"]
-    # random.shuffle(mylist)
-
-
-
-# while number_of_strings >= 5:
-#    number_of_strings+=1
-#     new_word = random.choice(your_word)
-#     print(new_word)
+    
